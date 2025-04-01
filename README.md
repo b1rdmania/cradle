@@ -1,6 +1,6 @@
 # Cradle.build - V1 Technical Specification
 
-**Document Version:** 1.0
+**Document Version:** 1.2
 **Date:** 2025-04-01
 
 ## 🧱 Cradle.build — Sonic-Native Token Launch Infrastructure
